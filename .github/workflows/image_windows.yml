@@ -20,8 +20,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        repository: lawnjelly/godot
-        ref: titan
+        repository: N1ghtSiren/godot
+        ref: ewok3
 
     # get javascript module
     - uses: actions/checkout@v2
