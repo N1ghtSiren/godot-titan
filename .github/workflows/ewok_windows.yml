@@ -23,7 +23,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        repository: lawnjelly/godot
+        repository: N1ghtSiren/godot
         ref: ewok3
 
     # get javascript module
